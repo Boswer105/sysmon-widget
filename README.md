@@ -1,4 +1,3 @@
-@"
 # ⚡ SysMon Widget
 
 Un widget de monitoring système flottant, léger et moderne, affichant en temps réel l'utilisation de vos composants PC (CPU, GPU, RAM, Réseau) sans ouvrir le Gestionnaire des tâches.
